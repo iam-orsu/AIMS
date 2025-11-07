@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../blinky/bootloader/zephyr/mesh/bootloader/with_mcuboot/shell/NFC_nvn"
+		},
+		{
+			"name": "boot_by_nvn",
+			"path": "../../../blinky/bootloader/zephyr/mesh/bootloader/with_mcuboot/boot_by_nvn"
+		},
+		{
+			"name": "1e_2",
+			"path": "../../../blinky/1e_2"
+		}
+	],
+	"settings": {}
+}
